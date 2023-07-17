@@ -4,20 +4,21 @@
     box-sizing: border-box;
 }
 
+.main {
+    background-color: brown;
+}
 
 .items {
+    padding: 50px;
     display: grid;
-
-    grid-template-columns:
-        repeat(auto-fit,
-            minmax(350px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    /* gap: 10px; */
     place-items: center;
 }
 
 .item {
-    padding: 1.35rem;
     background: #90bcbc;
     height: 16rem;
     width: 16rem;
+    margin: 20px;
 }

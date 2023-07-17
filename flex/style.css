@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    background-color: brown;
+    width: 90vw;
+    margin-inline: auto;
+}
+
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item {
+    display: flex;
+    background-color: #90bcbc;
+    height: 15rem;
+    width: 12rem;
+    margin: 20px;
+    align-items: start;
+}
+
+.parent {
+    display: flex;
+    justify-content: start;
+}
