@@ -11,7 +11,7 @@ Check out the live site with Grid : [Grid Layout](http://test-2-me-grid.netlify.
 To view the website locally or make changes, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/jimmyramani0912/Test-2.git`
-2. Navigate to the project directory: `cd my-awesome-website`
+2. Navigate to the project directory: `cd Test-2`
 3. Open the `index.html` file in your preferred web browser.
 
 ## Contributing
