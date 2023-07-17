@@ -2,9 +2,9 @@
 
 Welcome to my awesome website! This site showcases my projects, portfolio, and other cool stuff.
 
-Check out the live site with Flex : [Flex Layout](http://test-2-me-flex.netlify.app)
+Check out the live site with Flex : [Flex Layout](https://test-2-me-flex.netlify.app)
 
-Check out the live site with Grid : [Grid Layout](http://test-2-me-grid.netlify.app)
+Check out the live site with Grid : [Grid Layout](https://test-2-me-grid.netlify.app)
 
 ## Usage
 
