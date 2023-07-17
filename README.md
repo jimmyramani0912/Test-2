@@ -2,9 +2,9 @@
 
 Welcome to my awesome website! This site showcases my projects, portfolio, and other cool stuff.
 
-Check out the live site with FLex : [My Awesome Website](test-2-me-flex.netlify.app)
+Check out the live site with FLex : [My Awesome Website](http://test-2-me-flex.netlify.app)
 
-Check out the live site with Grid : [My Awesome Website](test-2-me-grid.netlify.app)
+Check out the live site with Grid : [My Awesome Website](http://test-2-me-grid.netlify.app)
 
 ## Usage
 
